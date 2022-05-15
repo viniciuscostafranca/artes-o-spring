@@ -1,0 +1,11 @@
+package com.franca.pagamento.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+import com.franca.pagamento.entity.Produto;
+
+@Repository
+public interface ProdutoVendaRepository extends JpaRepository<Produto, Long>{
+
+}

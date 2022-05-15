@@ -1,0 +1,6 @@
+package com.franca.pagamento.repository;
+
+
+public interface VendaRepository {
+
+}

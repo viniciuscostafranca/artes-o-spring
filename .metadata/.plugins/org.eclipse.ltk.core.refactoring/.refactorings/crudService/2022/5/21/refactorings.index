@@ -1,0 +1,10 @@
+1652626358349	Rename type 'ExeceptionResponse'
+1652631712391	Rename package 'com.franca.discovery'
+1652631724044	Rename package 'com.franca.discovery.controller'
+1652631738662	Rename package 'com.franca.discovery.dataVO'
+1652631752536	Rename package 'com.franca.discovery.entity'
+1652631763678	Rename package 'com.franca.crudentity'
+1652631779131	Rename package 'com.franca.discovery.exeception'
+1652631794540	Rename package 'com.franca.discovery.repository'
+1652631806969	Rename package 'com.franca.discovery.service'
+1652635875936	Delete element

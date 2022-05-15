@@ -1,0 +1,5 @@
+package com.franca.discovery.exeception;
+
+public class ExeceptionResponse {
+
+}

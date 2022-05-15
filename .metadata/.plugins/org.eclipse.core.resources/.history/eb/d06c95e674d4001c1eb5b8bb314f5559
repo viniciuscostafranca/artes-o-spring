@@ -1,0 +1,5 @@
+package com.franca.pagamento.entity;
+
+public class Venda {
+
+}

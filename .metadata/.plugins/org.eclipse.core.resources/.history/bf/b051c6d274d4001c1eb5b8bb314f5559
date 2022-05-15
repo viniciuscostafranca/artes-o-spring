@@ -1,0 +1,5 @@
+package com.franca.crud.entity;
+
+public class Venda {
+
+}
